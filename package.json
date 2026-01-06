@@ -1,0 +1,8 @@
+{
+  "name": "vulnerable-sample",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "react-server-dom-webpack": "^19.0.0"
+  }
+}
